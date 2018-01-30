@@ -1,3 +1,4 @@
+import fs from 'fs'
 export default function (arr = []){
     var packageJson,externals = {};
     try {
