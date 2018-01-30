@@ -1,6 +1,6 @@
 {
   "name": "externals-dependencies",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Easily exclude dependencies in Webpack bundle",
   "main": "lib/index.js",
   "module": "es/index.js",
